@@ -215,23 +215,21 @@ Open `STREET FIGHTER.slnx` in Visual Studio 2022 and press **F5**.
 | Dhalsim | Yoga Fire | `Dhalsim-yogafire.gif` |
 
 ---
-
 ## 📸 Screenshots
 
-### Main Menu
-![Main Menu](./Project%20Screenshots/MAIN%20MENU.png)
+| Main Menu | Character Select |
+|---|---|
+| ![Main Menu](./Project%20Screenshots/MAIN%20MENU.png) | ![Character Select](./Project%20Screenshots/CHARACTER_SELECT.png) |
 
-### Character Select
-![Character Select](./Project%20screenshots/Screenshot%202026-06-23%20135902.png)
+| VS Screen | Fight Screen |
+|---|---|
+| ![VS Screen](./Project%20Screenshots/VS_SCREEN.png) | ![Fight Screen](./Project%20Screenshots/FIGHT_SCREEN.png) |
 
-### VS Splash
-![VS Splash](./Project%20screenshots/Screenshot%202026-06-23%20135933.png)
+| Options Mode |
+|---|
+| ![Options Mode](./Project%20Screenshots/OPTIONS_MODE.png) |
 
-### Fight Screen
-![Fight Screen](./Project%20screenshots/Screenshot%202026-06-23%20140012.png)
-
-### KO / Draw Result
-![KO Result](./Project%20screenshots/Screenshot%202026-06-23%20140048.png)
+> All screenshots are from the actual game running in Windows Forms.
 
 ---
 
