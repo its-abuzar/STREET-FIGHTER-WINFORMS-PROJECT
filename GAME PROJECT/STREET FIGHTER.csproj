@@ -550,5 +550,10 @@
     <Content Include="Assets\Config\keybindings.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Project Screenshots\CHARACTER_SELECT.png" />
+    <Content Include="Project Screenshots\FIGHT_SCREEN.png" />
+    <Content Include="Project Screenshots\MAIN MENU.png" />
+    <Content Include="Project Screenshots\OPTIONS_MODE.png" />
+    <Content Include="Project Screenshots\VS_SCREEN.png" />
   </ItemGroup>
 </Project>
