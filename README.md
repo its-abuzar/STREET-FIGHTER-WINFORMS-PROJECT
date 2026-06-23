@@ -219,7 +219,7 @@ Open `STREET FIGHTER.slnx` in Visual Studio 2022 and press **F5**.
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](./GAME%20PROJECT/Project%20screenshots/MAIN%20MENU.png)
+![Main Menu](./Project%20Screenshots/MAIN%20MENU.png)
 
 ### Character Select
 ![Character Select](./Project%20screenshots/Screenshot%202026-06-23%20135902.png)
