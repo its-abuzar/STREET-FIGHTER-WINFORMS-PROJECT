@@ -219,15 +219,15 @@ Open `STREET FIGHTER.slnx` in Visual Studio 2022 and press **F5**.
 
 | Main Menu | Character Select |
 |---|---|
-| ![Main Menu](./Project%20Screenshots/MAIN%20MENU.png) | ![Character Select](./Project%20Screenshots/CHARACTER_SELECT.png) |
+| ![Main Menu](./GAME%20PROJECT/Project%20Screenshots/MAIN%20MENU.png) | ![Character Select](./GAME%20PROJECT/Project%20Screenshots/CHARACTER_SELECT.png) |
 
 | VS Screen | Fight Screen |
 |---|---|
-| ![VS Screen](./Project%20Screenshots/VS_SCREEN.png) | ![Fight Screen](./Project%20Screenshots/FIGHT_SCREEN.png) |
+| ![VS Screen](./GAME%20PROJECT/Project%20Screenshots/VS_SCREEN.png) | ![Fight Screen](./GAME%20PROJECT/Project%20Screenshots/FIGHT_SCREEN.png) |
 
 | Options Mode |
 |---|
-| ![Options Mode](./Project%20Screenshots/OPTIONS_MODE.png) |
+| ![Options Mode](./GAME%20PROJECT/Project%20Screenshots/OPTIONS_MODE.png) |
 
 > All screenshots are from the actual game running in Windows Forms.
 
